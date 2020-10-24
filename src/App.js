@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import "./App.css"; // Adding CSS file
 
 class App extends Component {
   render() {
